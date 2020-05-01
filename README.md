@@ -2,6 +2,11 @@
 
 ![unofficial](https://img.shields.io/badge/-unofficial-informational)
 
+## 사용법 (IntellJ 기준)
+
+- XML 파일 [다운로드](./techcourse-intellij-formatter.xml)
+- `Preferences` - `Code Style` - `Scheme` 옆 설정 버튼 - `Import Scheme` - `IntellJ IDEA Code Style XML` - 파일 선택
+
 ## 코드 스타일 출처
 
 ### Java
@@ -13,7 +18,5 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Airbnb inspired Webstorm Javascript CodeStyle](https://gist.github.com/mentos1386/aa18c110dc272514d592ec27e98128be)
 
-## 사용법 (IntellJ 기준)
 
-- XML 파일 [다운로드](./techcourse-intellij-formatter.xml)
-- `Preferences` - `Code Style` - `Scheme` 옆 설정 버튼 - `Import Scheme` - `IntellJ IDEA Code Style XML` - 파일 선택
+## [우아한테크코스 클린코드를 위한 Pull Request 전 체크리스트](https://github.com/woowacourse/woowacourse-docs/blob/master/cleancode/pr_checklist.md)
